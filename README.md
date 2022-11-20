@@ -12,10 +12,10 @@ https://arxiv.org/abs/1608.05148v2
 - imagemagick (sudo apt install imagemagick)
 
 ## Get Started
-### Download these weights and place them in a new folder called `checkpoint/`
+### Step 1. Download these weights and place them in a new folder called `checkpoint/`
 1. https://github.com/1zb/pytorch-image-comp-rnn/releases/download/1.0/binarizer_epoch_00000066.pth
 2. https://github.com/1zb/pytorch-image-comp-rnn/releases/download/1.0/decoder_epoch_00000066.pth
 3. https://github.com/1zb/pytorch-image-comp-rnn/releases/download/1.0/encoder_epoch_00000066.pth
-### While on the main directory run `bash teste2e.sh`
+### Step 2: While on the main directory run `bash teste2e.sh`
 
 #### That's it!
